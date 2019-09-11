@@ -1,0 +1,16 @@
+{
+  "name": "@metalfs/blowfish-decrypt",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalfs/blowfish-decrypt.git"
+  },
+  "keywords": [],
+  "author": "Robert Schmid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metalfs/blowfish-decrypt/issues"
+  },
+  "homepage": "https://github.com/metalfs/blowfish-decrypt#readme"
+}
